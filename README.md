@@ -127,7 +127,7 @@ Demo Video
 ----------
 
 **Demo Video Link (~2 minutes):**
-https://drive.google.com/file/d/1mBzVbFvZXcuF7U8LaAvX_XXQ5K-fUPAX/view?usp=drive_link
+https://drive.google.com/file/d/1PRpc67jxZvC7k57m2WR-5vtpXOhbdBHS/view?usp=sharing
 
 The video includes:
 *   Brief project explanation
